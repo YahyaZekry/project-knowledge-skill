@@ -76,4 +76,4 @@ claude skill install project-knowledge.skill
 
 ## Source
 
-Made by [Yahya Zekry](https://github.com/YahyaZekry/claude-code-skills) · See [SKILL.md](SKILL.md) for the full skill definition.
+Made by [Yahya Zekry](https://github.com/YahyaZekry) · See [SKILL.md](SKILL.md) for the full skill definition.

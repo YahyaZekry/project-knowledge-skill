@@ -1,11 +1,5 @@
 # project-knowledge
 
-A [Claude Code](https://claude.ai/code) skill that keeps a living, AI-readable map of your codebase.
-
-Sibling repos: [claude-code-skills](https://github.com/YahyaZekry/claude-code-skills) (general-purpose) · [claude-code-obsidian-skills](https://github.com/YahyaZekry/claude-code-obsidian-skills) (Obsidian vault tooling).
-
----
-
 Keeps a `.project-knowledge/` folder at your project root — one focused file per concern, a master index for navigation. Replaces a single `PROJECT_KNOWLEDGE.md` that grows into an unmanageable wall of text.
 
 ## Why a folder instead of one file
@@ -79,8 +73,8 @@ If the `.project-knowledge/` folder is **not** in `.gitignore` (i.e. it's being 
 ### From this repo
 
 ```bash
-git clone https://github.com/YahyaZekry/claude-code-project-knowledge.git
-claude skill install ./claude-code-project-knowledge/project-knowledge.skill
+git clone https://github.com/YahyaZekry/project-knowledge-skill.git
+claude skill install ./project-knowledge-skill/project-knowledge.skill
 ```
 
 ### Direct download
