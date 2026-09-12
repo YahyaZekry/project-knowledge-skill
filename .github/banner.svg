@@ -48,9 +48,6 @@
 
   <!-- right column: folder card -->
   <g filter="url(#shadow)">
-    <!-- folder tab -->
-    <path d="M 810 96 h 150 a 18 18 0 0 1 18 18 v 22 h -168 z" fill="#2c3358"/>
-    <!-- folder body -->
     <rect x="760" y="128" width="420" height="392" rx="20" fill="url(#card)" stroke="#3a4370" stroke-width="2"/>
     <text x="796" y="176" font-family="DejaVu Sans Mono, monospace" font-size="22" fill="#8e96e8">.project-knowledge/</text>
     <line x1="796" y1="196" x2="1144" y2="196" stroke="#3a4370" stroke-width="1.5"/>
