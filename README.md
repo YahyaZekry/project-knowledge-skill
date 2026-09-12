@@ -1,5 +1,9 @@
 # project-knowledge
 
+<p align="center">
+  <img src=".github/banner.svg" alt="project-knowledge — a living knowledge folder for every project" width="720">
+</p>
+
 Keeps a `.project-knowledge/` folder at your project root — one focused file per concern, a master index for navigation. Replaces a single `PROJECT_KNOWLEDGE.md` that grows into an unmanageable wall of text.
 
 ## Why a folder instead of one file
